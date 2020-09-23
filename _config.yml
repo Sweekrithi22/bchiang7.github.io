@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+name: Sweekrithi Shetty
+title: Sweekrithi Shetty |  Engineer
+description: Believe! Work! Succeed!
 url: https://bchiang7.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
+email: shettysweekrithi03@gmail.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
 resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:shettysweekrithi03@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/SweekrithiShet1
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url:https://www.instagram.com/sweekrithishetty22/
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/Sweekrithi22
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: www.linkedin.com/in/sweekrithi-shetty
 
 # Build settings
 markdown: kramdown
